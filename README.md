@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshmawj111
 - 👀 I’m interested in Python, Data Analaysis (tabular), Time series analaysis, Parallel programming
-- 🌱 I’m currently learning Algorithms, Probability and Statistics, Machine Learning, Patter Recognition, Web-service, Multicore-computing, Global Supply Chaing Management
+- 🌱 I’m currently interested in Time Sereies Forecasting, Graph Neural Network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
